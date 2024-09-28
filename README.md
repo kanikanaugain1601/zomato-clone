@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+##ZOMATO-CLONE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 Here’s a simple version of the instructions:
 
